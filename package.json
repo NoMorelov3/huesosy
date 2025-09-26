@@ -1,6 +1,7 @@
 {
   "name": "huesosy",
   "version": "1.0.0",
+  "type": "module",
   "description": "A minimalistic and customizable CSS framework.",
   "main": "index.js",
   "scripts": {
